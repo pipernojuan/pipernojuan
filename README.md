@@ -3,7 +3,7 @@
 ![cyber](https://c.tenor.com/TuYN6dmAclUAAAAC/cyberpunk.gif)
 
 
-Skills: *HTML / CSS*
+*Skills*: *HTML / CSS*
 
 - 🌱 I'm currently learning Java Script | React JS | SQL | Node.js | MongoDB.
 - 💬 I'm an advanced student of the Legal Profession, and a student of Full Stack Developer. I am currently interested in technology, as I believe it will be increasingly important in our day to day.
