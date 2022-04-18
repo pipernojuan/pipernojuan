@@ -8,7 +8,7 @@
 - 🌱 I'm currently learning Java Script | React JS | SQL | Node.js | MongoDB.
 - 💬 I'm an advanced student of the Legal Profession, and a student of Full Stack Developer. I am currently interested in technology, as I believe it will be increasingly important in our day to day.
 - 🎯 I like football, tennis and eSports.
-- 
+- ☕ Wanna chat?
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/pipernojuan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/pipernojuanignacio//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/PipernoJuan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/PipernoJuan)  
