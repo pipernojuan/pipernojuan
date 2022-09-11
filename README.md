@@ -5,7 +5,7 @@
 
 *Skills*: *HTML / CSS / SCSS / BOOTSTRAP / VANILLA JS *
 
-- 🌱 I'm currently learning React JS | SQL | Node.js | MongoDB.
+- 🌱 I'm currently learning DATA SCIENCE | SQL | BUSINESS ANALYTICS
 - 💬 I'm an advanced student of the Legal Profession, and a student of Full Stack Developer. I am currently interested in technology, as I believe it will be increasingly important in our day to day.
 - 🎯 I like football, tennis and eSports.
 - ☕ Wanna chat?
